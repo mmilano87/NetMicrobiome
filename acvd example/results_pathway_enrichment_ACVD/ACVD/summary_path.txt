@@ -1,0 +1,11 @@
+SUMMARY
+
+Male: 3
+Female: 64
+Differential: 34
+New: 4
+
+putrescine biosynthesis IV
+tRNA processing
+gluconeogenesis I
+starch degradation III
