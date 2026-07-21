@@ -1,0 +1,15 @@
+# Python dependencies for the differential co-abundance network pipeline.
+# Pinned to the versions used to produce the manuscript results; the code is
+# not sensitive to minor version changes (numpy>=1.24, scipy>=1.10, pandas>=1.5
+# are sufficient to run the working example).
+numpy==2.1.0
+scipy==1.15.0
+pandas==2.3.1
+
+# --- Optional: only needed to RE-RUN the R-based benchmark / DA baseline ---
+# These are NOT required for the Python pipeline or the working example.
+#   R (>=4.3) with Bioconductor packages:
+#     NetCoMi, SpiecEasi, ALDEx2, curatedMetagenomicData, mia
+#   Note: curatedMetagenomicData currently requires pinning rbiom==1.0.3
+#   (CRAN) before installing `mia`, otherwise mia fails to build
+#   ('unifrac' not exported by rbiom).
