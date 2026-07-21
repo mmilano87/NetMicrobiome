@@ -1,7 +1,0 @@
-nodes: 209
-edges: 4295
-density: 0.19759845417740154
-components: 2
-largest_cc: 207
-avg_clustering: 0.590835970506194
-avg_betweenness: 0.004830695620169304
