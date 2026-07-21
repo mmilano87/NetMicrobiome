@@ -1,0 +1,7 @@
+cohort,condition,metric,clr_observed,clr_resid_observed,pct_change_after_resid,clr_null_mean,clr_null_sd,resid_z_vs_null,nonresid_z_vs_null
+acvd,control,n_rewired,24144.0,23513.0,-2.6,,,,
+acvd,control,n_true,4940.0,4680.0,-5.3,4994.4,755.0,-0.42,-0.07
+acvd,control,frac_true,0.2046,0.199,-2.7,,,,
+acvd,ACVD,n_rewired,10146.0,8641.0,-14.8,,,,
+acvd,ACVD,n_true,1707.0,1593.0,-6.7,1324.5,252.2,1.06,1.52
+acvd,ACVD,frac_true,0.1682,0.1844,9.6,,,,

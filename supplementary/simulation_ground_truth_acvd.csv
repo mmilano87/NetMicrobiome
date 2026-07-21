@@ -1,0 +1,4 @@
+scenario,n1,n2,P_features,drop_frac,n_reps,true_edges,precision_mean,precision_sd,recall_mean,recall_sd,f1_mean,tp_mean,fp_mean,fn_mean,fp_per_tp,n_true_change_mean,n_node_missing_mean,true_change_precision_mean
+ACVD-imbalanced (n=157 vs 53),157,53,300,0.0,30,150,0.0904,0.0037,0.9109,0.0199,0.1645,136.6,1376.3,13.4,10.07,1512.9,0.0,0.0904
+ACVD-imbalanced + 15% feature drop,157,53,300,0.15,30,150,0.0911,0.0062,0.9158,0.0223,0.1657,99.6,994.5,9.1,9.99,1094.1,109.2,0.0911
+Control-like (n=69 vs 101),69,101,300,0.0,30,150,0.1601,0.0066,0.9153,0.0201,0.2724,137.3,721.5,12.7,5.26,858.8,0.0,0.1601

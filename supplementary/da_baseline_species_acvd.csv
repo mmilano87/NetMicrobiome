@@ -1,0 +1,3 @@
+cohort,condition,level,method,n_species_tested,n_raw_p<0.05,expected_by_chance,n_BH<0.05,max_abs_effect,n_effect>1,top3_by_raw_p
+acvd,control,species,ALDEx2,544,15,27.2,0,0.201,0,Firmicutes_bacterium_CAG_95; Bacteroides_massiliensis; Ruminococcus_torques
+acvd,ACVD,species,ALDEx2,633,14,31.7,0,0.29,0,Olsenella_scatoligenes; Roseburia_intestinalis; Ruminococcus_lactaris

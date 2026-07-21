@@ -1,0 +1,6 @@
+arm,level,n_male,n_female,metric,observed,null_mean,null_sd,p_ge,p_le,n_perm
+control,"sample-level (1627 samples, pseudoreplicated)",234,192,n_rewired,142944.0,56109.5,10523.6,0.000999000999000999,1.0,1000
+control,"sample-level (1627 samples, pseudoreplicated)",234,192,n_true,18592.0,17103.5,2717.4,0.2787212787212787,0.7222777222777222,1000
+control,"sample-level (1627 samples, pseudoreplicated)",234,192,n_exclusive,142045.0,56093.3,10511.4,0.000999000999000999,1.0,1000
+control,"sample-level (1627 samples, pseudoreplicated)",234,192,n_sign,582.0,0.0,0.5,0.000999000999000999,1.0,1000
+control,"sample-level (1627 samples, pseudoreplicated)",234,192,max_node_score,354.92132932032297,169.7,21.3,0.000999000999000999,1.0,1000

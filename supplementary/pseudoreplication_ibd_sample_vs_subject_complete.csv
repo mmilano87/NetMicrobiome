@@ -1,0 +1,5 @@
+cohort,arm,metric,sample_n_male,sample_n_female,sample_observed,sample_null_mean,sample_null_sd,sample_p_ge,subject_observed,subject_null_mean,subject_null_sd,subject_p_ge,null_mean_collapse_subj_over_samp,subject_n_male,subject_n_female
+IBD,control,n_rewired,234,192,142944,56109.5,10523.6,0.001,145972,134022.6,10699.9,0.1259,2.39,15,12
+IBD,control,n_true,234,192,18592,17103.5,2717.4,0.2787,12784,14898.3,5156.4,0.6374,0.87,15,12
+IBD,IBD,n_rewired,570,631,86533,36651.0,2924.0,0.001,75577,81689.5,7449.8,0.7912,2.23,51,52
+IBD,IBD,n_true,570,631,21590,11280.7,1022.7,0.001,19438,17258.9,3243.3,0.3047,1.53,51,52

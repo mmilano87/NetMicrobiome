@@ -1,0 +1,3 @@
+cond,tau,delta,n_edges_male,n_edges_female,n_feat_male,n_feat_female,n_diff,n_true,n_node_missing,n_exclusive,frac_node_missing,frac_true
+control,0.3,0.3,3806,8239,142,194,9606,4878,4728,8917,0.492,0.508
+IBD,0.3,0.3,5456,4986,211,201,6363,4593,1770,6250,0.278,0.722

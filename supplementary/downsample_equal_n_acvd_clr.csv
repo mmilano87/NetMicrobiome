@@ -1,0 +1,7 @@
+cohort,variant,condition,metric,observed_imbalanced,n_m_obs,n_f_obs,balanced_n,balanced_mean,balanced_sd,balanced_min,balanced_max,obs_percentile,z,p_balanced_ge_obs,n_reps
+acvd,clr,control,n_rewired,24144.0,69,101,69,26511.3,5525.1188,15836.0,40465.0,32.0,-0.428,0.68,50
+acvd,clr,control,n_true,4940.0,69,101,69,4774.92,1137.761,2562.0,7286.0,64.0,0.145,0.36,50
+acvd,clr,control,frac_true,0.2046,69,101,69,0.1809,0.0283,0.1298,0.2724,80.0,0.837,0.2,50
+acvd,clr,ACVD,n_rewired,10146.0,157,53,53,13361.16,2250.9055,9538.0,20672.0,6.0,-1.428,0.94,50
+acvd,clr,ACVD,n_true,1707.0,157,53,53,1590.38,397.6376,906.0,3024.0,72.0,0.293,0.28,50
+acvd,clr,ACVD,frac_true,0.1682,157,53,53,0.1204,0.028,0.0671,0.2054,96.0,1.705,0.04,50

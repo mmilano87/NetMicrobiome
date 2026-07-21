@@ -1,0 +1,5 @@
+Variant,Group,Total_rewired,true_change,true_change_pct,node_missing_artifact,node_missing_pct,both_missing,exclusive,diff_weighted,sign_changed
+CLR,Control,24144,4940,20.5,19204,79.5,0,24022,120,2
+CLR,ACVD,10146,1707,16.8,8439,83.2,0,10142,4,0
+LOG,Control,16495,2991,18.1,13504,81.9,0,16364,131,0
+LOG,ACVD,7945,1340,16.9,6605,83.1,0,7943,2,0

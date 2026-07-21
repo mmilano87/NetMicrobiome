@@ -1,0 +1,3 @@
+cohort,condition,n_male,n_female,n_feat_male,n_feat_female,n_edges_male,n_edges_female,n_diff,n_true_change,n_node_missing
+acvd,control,69,101,159,166,1394,1327,1814,1177,637
+acvd,ACVD,157,53,191,177,1531,2312,2526,1849,677

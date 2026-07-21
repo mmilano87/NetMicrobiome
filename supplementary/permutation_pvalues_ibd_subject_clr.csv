@@ -1,0 +1,9 @@
+cohort,variant,condition,metric,observed,null_mean,null_sd,null_median,p_ge,p_le,n_perm
+ibd,clr_subject,control,n_rewired,145972,134022.58,10699.92,133395.0,0.1259,0.8751,1000
+ibd,clr_subject,control,n_true,12784,14898.3,5156.39,14733.0,0.6374,0.3636,1000
+ibd,clr_subject,control,n_exclusive,144765,131962.38,10700.79,131635.0,0.1109,0.8901,1000
+ibd,clr_subject,control,n_sign,813,1184.6,653.94,1030.5,0.6723,0.3297,1000
+ibd,clr_subject,IBD,n_rewired,75577,81689.52,7449.75,80132.0,0.7912,0.2098,1000
+ibd,clr_subject,IBD,n_true,19438,17258.89,3243.34,17351.5,0.3047,0.6973,1000
+ibd,clr_subject,IBD,n_exclusive,75489,81456.51,7441.24,79882.0,0.7842,0.2168,1000
+ibd,clr_subject,IBD,n_sign,27,52.02,54.57,38.0,0.6923,0.3217,1000

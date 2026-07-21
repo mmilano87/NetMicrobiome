@@ -1,0 +1,4 @@
+level,arm,n_male,n_female,n_rewired_obs,n_rewired_null_mean,n_rewired_null_sd,n_rewired_p_ge,n_true_obs,n_true_null_mean,n_true_null_sd,n_true_p_ge
+"sample-level (1627, pseudoreplicated)",control,234,192,142944,56109.0,10524.0,0.001,18592,17103.0,2717.0,0.279
+"subject-level (130, de-pseudoreplicated)",control,15,12,145972,134023.0,10695.0,0.126,12784,14898.0,5154.0,0.637
+"subject-level (130, de-pseudoreplicated)",IBD,51,52,75577,81690.0,7446.0,0.791,19438,17259.0,3242.0,0.305

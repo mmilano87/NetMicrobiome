@@ -1,0 +1,5 @@
+cohort,condition,n_male,n_female,n_shared_feat,netcomi_sig_edges,our_true_change,overlap,jaccard
+ACVD,control,69,101,177,0,1177,0,0
+ACVD,ACVD,157,53,201,0,1849,0,0
+IBD (subject-level),IBD,51,52,92,0,406,0,0
+IBD (subject-level),control,15,12,127,0,1880,0,0

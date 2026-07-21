@@ -1,0 +1,13 @@
+cohort,group,paper_count,our_count,note,match
+ACVD,ACVD_female,53,53,exact match,True
+ACVD,ACVD_male,157,157,exact match,True
+ACVD,control_female,101,101,exact match,True
+ACVD,control_male,69,69,exact match,True
+IBD,IBD_female,631,631,matches SAMPLES (630 subj-visits); only 130 subjects total,True
+IBD,IBD_male,570,570,matches SAMPLES; pseudoreplicated,True
+IBD,control_female,192,192,matches SAMPLES; ~12 subjects,True
+IBD,control_male,234,234,matches SAMPLES; ~15 subjects,True
+T2D,control_female,309,309,exact match (study_condition=control),True
+T2D,control_male,141,141,exact match,True
+T2D,T2D_female,637,245,NOT reproducible from current MetaCardis_2020_a release; verified 245 T2D-female in 953-sample matrix,False
+T2D,T2D_male,526,258,NOT reproducible; verified 258 T2D-male in 953-sample matrix; paper count 526 exceeds available,False
